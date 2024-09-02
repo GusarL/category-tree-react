@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.category {
+  margin-left: 20px;
+}
+
+.buttons button {
+  margin-left: 10px;
+}
+
+.children {
+  margin-left: 20px;
+}
