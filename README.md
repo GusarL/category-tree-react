@@ -5,6 +5,7 @@ It should be a module that creates a category tree, with infinite depth. Your so
 - Delete category (if it has children - delete them as well).
 - Expand/Collapse parent category (children categories should collapse too). ● Save (and Load) this tree to Local Storage.
 
+
 # Getting Started with Create React App
 
 
